@@ -14,7 +14,7 @@ from time import sleep
 from time import time as pytime
 
 # TNS API key and URLs
-TNS_API_KEY = "ab4e069b026bd426d1ca3e37cb46c64a21c5a455"
+TNS_API_KEY = 
 TNS_API_URL = "https://wis-tns.weizmann.ac.il/api/get"
 
 # Define cosmology used to calculate distances to galaxy
